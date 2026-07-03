@@ -24,7 +24,7 @@ This toolkit addresses all three with methodology I've used in production for a 
 ## Quick start
 
 ```bash
-git clone https://github.com/dominiceaervin/darkhorse-ml-validation
+git clone https://github.com/dominiceaervin/darkhorse-overview-ml-validation
 cd darkhorse-ml-validation
 pip install -r requirements.txt
 python example.py
@@ -100,7 +100,7 @@ Replace `generate_bars()` in `example.py` with `pd.read_parquet("your_bars.parqu
 
 ## Related
 
-Extracted from [DarkHorse](https://github.com/dominiceaervin/darkhorse) — a production algorithmic trading system for ES futures. Original methodology used to size kill switches, calibrate walk-forward gates, and evaluate signal deployment.
+Extracted from [DarkHorse](https://github.com/dominiceaervin/darkhorse-overview) — a production algorithmic trading system for ES futures. Original methodology used to size kill switches, calibrate walk-forward gates, and evaluate signal deployment.
 
 ## License
 
