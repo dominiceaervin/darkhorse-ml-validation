@@ -24,7 +24,7 @@ This toolkit addresses all three with methodology I've used in production for a 
 ## Quick start
 
 ```bash
-git clone https://github.com/dominiceaervin/darkhorse-overview-ml-validation
+git clone https://github.com/dominiceaervin/darkhorse-ml-validation
 cd darkhorse-ml-validation
 pip install -r requirements.txt
 python example.py
